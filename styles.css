@@ -1,0 +1,63 @@
+body{
+	background-color: #ccc;
+}
+
+#gallery-wrapper h1 {
+	font-family: "Asset", cursive;
+	font-size: 50px;
+	color:blue;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.image{
+	float: left;
+	width: 32%;
+	padding: .5%;
+}
+
+
+.portrait img {
+	width: 100%;
+}
+
+.caption{
+	background-color: blue;
+	color: #fff;
+	text-align: center;
+	margin-top:-20px;
+	position: relative;
+}
+
+
+.landscape img {
+	width: 100%;
+}
+
+.six{
+	clear: both;
+}
+.four{
+	margin-top: 4%;
+}
+
+.five{
+	margin-top: 4%;
+}
+
+.extra-stuff{
+	font-size: 20px;
+	background-color: blue;
+	width: 32%;
+	color: white;
+	text-align: center;
+	float: left;
+	padding: 10% 0;
+	margin-top: .5%;
+	margin-left: .5%;
+}
+
+.wide-image .landscape img{
+	width: 100%;
+	margin-top: 1%;
+}
