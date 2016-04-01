@@ -3,7 +3,7 @@ body{
 }
 
 #gallery-wrapper h1 {
-	font-family: "Asset", cursive;
+	font-family: "Asset", Cursive;
 	font-size: 50px;
 	color:blue;
 	text-align: center;
@@ -21,11 +21,11 @@ body{
 	width: 100%;
 }
 
-.caption{
+.caption {
 	background-color: blue;
 	color: #fff;
 	text-align: center;
-	margin-top:-20px;
+	margin-top:-19px;
 	position: relative;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .five{
-	margin-top: 4%;
+	margin-top: 75px;
 }
 
 .extra-stuff{
